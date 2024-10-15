@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
-<a href="https://github.com/yereeeeeee/commitmon">
   <img alt="commitmon" src="https://commitmon.me/adventure?username=${yereeeeeee}&theme=${transparent}&userFetchType=${all}" width="600px" />
-</a>
